@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0029: Используйте выражение объединения
+dotnet_style_coalesce_expression = true:suggestion
